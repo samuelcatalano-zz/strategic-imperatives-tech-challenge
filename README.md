@@ -18,6 +18,7 @@ The idea was to create some models that represented a location, a provider and a
 | **OpenAPI** | 1.5.9 |
 | **MySQL** | 8.0.20 |
 | **Docker** | 20.10.4 |
+| **Gradle** |  |
 | **EC2** |  |
 | **RDS** |  |
 
