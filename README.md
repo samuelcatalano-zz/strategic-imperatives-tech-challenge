@@ -45,8 +45,8 @@ Exists a Dockerfile prepared to download a OpenJDK 11 Slim and install the appli
 
 ### APIs:
 
-Basic URL path if you're runninh locally is: http://localhost:8080/  
-Basic URL path if you're runninh locally is: http://ec2-3-140-196-168.us-east-2.compute.amazonaws.com/
+Basic URL path if you're running locally is: http://localhost:8080/  
+Basic URL path if you're running AWS is: http://ec2-3-140-196-168.us-east-2.compute.amazonaws.com/
 
 #### Example:
 * GET: http://ec2-3-140-196-168.us-east-2.compute.amazonaws.com/providers  
