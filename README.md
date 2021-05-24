@@ -2,6 +2,10 @@
 Recruitment Exercise:
 https://docs.google.com/document/d/1unk6IzcIPpLmixiGunjV6u79JDU_zzfoxpp-pIrLcmM/edit
 
+### Proposal:
+The idea was to create some models that represented a location, a provider and a billing, very simple, just to show the knowledge of **SpringBoot**, **RESTful** APIs, **JPA**, Unit tests using **JUnit** and **Mockito**, **Docker**, **RDS** and **EC2**. A docker was used to deploy the application to an EC2 instance using RDS (**MySQL**) as a database. As this is a free account, I did not use any VPC, sub-net or similar resources.
+
+
 ### Tech Stack:
 | Technology | Version |
 |--|--|
